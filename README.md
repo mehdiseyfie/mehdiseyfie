@@ -37,7 +37,7 @@ JavaScript  ██████████████░░░░░░  Django
 
 ### 💻 Featured Projects
 
-#### 🎰 [Django Lottery/Coupon Management System](link-to-repo)
+#### 🎰 [Django Lottery/Coupon Management System](https://libercars.ir)
 *Sep 2025 - Oct 2025*
 
 A secure lottery and coupon code management system with real-time validation.
@@ -72,7 +72,7 @@ Production-ready e-commerce REST API with advanced features and optimized perfor
 
 ---
 
-#### 🤖 [High-Scale Telegram Bot](link-to-repo)
+#### 🤖 [High-Scale Telegram Bot](https://github.com/mehdiseyfie/telegram-music-bot)
 *Serving 100,000+ Active Users*
 
 Production-grade Telegram bot with microservices architecture and advanced caching.
@@ -121,7 +121,7 @@ I'm always interested in collaborating on exciting backend projects, discussing 
 
 - 📧 Email: mmmehdiseyfi@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/mehdiseyfie](https://linkedin.com/in/mehdiseyfie)
-- 📱 Telegram: Available upon request
+- 📱 Telegram: @mehdiseyfi
 
 ---
 
