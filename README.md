@@ -52,7 +52,7 @@ A secure lottery and coupon code management system with real-time validation.
 
 ---
 
-#### 🛒 [Django E-commerce Platform](https://github.com/mehdiseyfie/django_rest_ecommerce_project)
+#### 🛒 [Django E-commerce Platform](https://github.com/mehdiseyfie/django_ecommerce_project)
 *Jul 2025 - Aug 2025*
 
 Full-stack e-commerce solution with advanced features and optimized performance.
