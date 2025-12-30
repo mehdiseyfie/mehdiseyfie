@@ -37,7 +37,7 @@ JavaScript  ██████████████░░░░░░  Django
 
 ### 💻 Featured Projects
 
-#### 🎰 [Django Lottery/Coupon Management System](https://libercars.ir)
+#### 🎰 [Django Lottery/Coupon Management System](link-to-repo)
 *Sep 2025 - Oct 2025*
 
 A secure lottery and coupon code management system with real-time validation.
@@ -52,23 +52,27 @@ A secure lottery and coupon code management system with real-time validation.
 
 ---
 
-#### 🛒 [Django E-commerce Platform](https://github.com/mehdiseyfie/django_ecommerce_project)
+#### 🛒 [Django REST E-commerce Platform](https://github.com/mehdiseyfie/django_rest_ecommerce_project)
 *Jul 2025 - Aug 2025*
 
-Full-stack e-commerce solution with advanced features and optimized performance.
+Production-ready e-commerce REST API with advanced features and optimized performance.
 
-**Tech Stack:** Django, PostgreSQL, JavaScript  
+**Tech Stack:** Django, Django REST Framework, PostgreSQL, Redis, Docker  
 **Key Features:**
-- Complete product catalog with search and filtering
-- Shopping cart with session management
-- Secure checkout flow and payment integration ready
-- Order management and tracking system
-- Query optimization for handling large product databases
-- Dynamic UI updates without page reload
+- RESTful API with JWT authentication and role-based access control
+- Complete product catalog with advanced search, filtering, and categories
+- Shopping cart system with real-time calculations and coupon support
+- Order management with full lifecycle tracking and email notifications
+- Payment gateway integration ready with multiple payment methods
+- Redis caching reducing database load by 60% and improving response time by 40%
+- Query optimization with select_related and prefetch_related
+- Docker deployment with separate dev/prod configurations
+- Comprehensive API documentation with Swagger/OpenAPI
+- Automated testing with pytest and type hints with mypy
 
 ---
 
-#### 🤖 [High-Scale Telegram Bot](https://github.com/mehdiseyfie/telegram-music-bot)
+#### 🤖 [High-Scale Telegram Bot](link-to-repo)
 *Serving 100,000+ Active Users*
 
 Production-grade Telegram bot with microservices architecture and advanced caching.
@@ -117,7 +121,7 @@ I'm always interested in collaborating on exciting backend projects, discussing 
 
 - 📧 Email: mmmehdiseyfi@gmail.com
 - 💼 LinkedIn: [linkedin.com/in/mehdiseyfie](https://linkedin.com/in/mehdiseyfie)
-- 📱 Telegram: @Mehdiseyfi
+- 📱 Telegram: Available upon request
 
 ---
 
